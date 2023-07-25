@@ -11,7 +11,9 @@ money=12.47
 price=1.14
 
   if money > price
+  
   money/price= nbre de bonbons
+  
   return nbre de bonbons
 
 End diviser
